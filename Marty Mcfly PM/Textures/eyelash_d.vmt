@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fwhykay/back_to_the_future_ps4/characters/shared/eyelash_d"
+	"$translucent" 1
+	"$nocull" 1
+}

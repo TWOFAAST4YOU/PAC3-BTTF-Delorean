@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/fwhykay/back_to_the_future_ps4/characters/marty_mcfly/sk20_marty_face_fixedout"
+$bumpmap "models/fwhykay/back_to_the_future_ps4/characters/marty_mcfly/marty_shaders/sk20_marty_face_nm_fixedout"
+$phongexponenttexture "models/fwhykay/back_to_the_future_ps4/characters/shaders/exponent_default"
+"$halflambert" 1
+"$nodecal" "0"
+"$model" "1" 
+"$phong" "1"
+"$phongboost"    "1"
+"$phongfresnelranges"    "[0.25 1 1]"	
+$ambientocclusion 1
+$nocull 0
+}
