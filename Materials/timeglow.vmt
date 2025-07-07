@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/MylestheHedgehog/custommodels/BTTF\Delorean\TimeGlow"
+	"$bumpmap" "models/MylestheHedgehog/custommodels/BTTF\Delorean\flat"
+}
